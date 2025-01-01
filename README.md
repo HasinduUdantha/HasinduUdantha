@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hasindu Udantha</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">Undergraduate</h3>
 
 - 🌱 I’m currently learning **Frameworks**
 
