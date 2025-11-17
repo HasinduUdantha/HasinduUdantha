@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Hasindu Udantha</h1>
-<h3 align="center">Computer Science Graduate | Full-Stack Developer | Cybersecurity Enthusiast | AI/ML Explorer</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | AI/GenAI Engineer | Cybersecurity Enthusiast</h3>
 
 ---
 
@@ -11,9 +11,9 @@
 
 ---
 
-### 💡 What I Do  
-- 🌐 **Full-Stack Development:** Build responsive, cross-platform web & mobile apps with **ReactJS**, **React Native**, **Node.js**, and modern UI frameworks like **Tailwind CSS**.  
-- 🧠 **Machine Learning:** Design predictive models & AI-driven tools using **Python**, **scikit-learn**, **TensorFlow**, and **PyTorch**.  
+### 💡 What I Work On  
+- 🌐 **Full-Stack Development:** Build responsive, cross-platform web & mobile apps with **ReactJS**, **React Native**, **Node.js**, **Express**, **TypeScript**, and modern UI frameworks like **Tailwind CSS**.  
+- 🧠 **Artificial Intelligence & ML/GenAI:** Design predictive models & AI-driven tools using **Python**, **LLMs**, **LLM Fine-Tuning**, **RAG**, **Ollama** ,**scikit-learn**, **TensorFlow**, and **PyTorch**.
 - 🔒 **Cybersecurity:** Conduct VAPT, security research, and awareness workshops to promote a safer digital environment.  
 
 ---
@@ -45,15 +45,9 @@
 
 ---
 
-### 🌟 Beyond Tech  
-- ⚾ **Ballplayer** – Represented Sri Lanka at the **12th Asian Baseball Championship (Japan)**.  
-- 🏆 Multiple-time **All-Island Baseball Champions**.  
-
----
-
 📫 **Let’s Connect:**  
 <p>
-<a href="https://www.linkedin.com/in/hasindu-udantha-832813221"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hasindu-udantha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/HasinduUdantha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://huggingface.co/Hasindu21"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
 </p>
